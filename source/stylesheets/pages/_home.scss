@@ -1,11 +1,12 @@
 #home {
-  background-color: #D23333;
+  background-color: white;
   color: white;
   height: 100vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
   text-align: center;
+  flex-direction: column;
   p {
     margin-top: 1.5em;
   }
